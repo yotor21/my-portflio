@@ -92,6 +92,7 @@ body {
   .about-me {
     display: flex;
     align-items: center;
+       float:center;
   }
   
   #about-me h1 {
