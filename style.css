@@ -35,7 +35,7 @@ body {
   }
   
   .profile_name {
-    float: left;
+    float: center;
     padding-left: 2cm;
     color: aliceblue;
     font-weight: bolder;
