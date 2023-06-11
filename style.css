@@ -98,14 +98,13 @@ body {
     font-size: 65px;
     margin-top: 90px;
     color: #7600bc; 
-    align-text: center;
   }
   
   #about-me p {
     font-size: 25px;
     color: rgb(128, 128, 128);
     margin-top: -1cm;
-    align-items: center;
+   
   }
   
 
@@ -114,7 +113,7 @@ body {
   }
 
   .profile_image {
-    width: 150px;
+    width: 50px;
     vertical-align: middle;
     margin: 5px;
     margin-top: 100px;
