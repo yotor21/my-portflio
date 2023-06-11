@@ -35,7 +35,7 @@ body {
   }
   
   .profile_name {
-    float: center;
+    float: left;
     padding-left: 2cm;
     color: aliceblue;
     font-weight: bolder;
@@ -53,7 +53,7 @@ body {
   .contact_info img {
     width:25px;
     margin-right: 10px;
-    float:center;
+    float:left;
   }
   
   /* Titles */
