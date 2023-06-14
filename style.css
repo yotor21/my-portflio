@@ -90,7 +90,7 @@ body {
   /* About Me */
   
   .about-me {
-    display: flex;
+    display: center;
     align-items: center;
    
   }
@@ -110,7 +110,7 @@ body {
   
 
   .abouttext {
-    margin-right: 200px;
+    margin-left: 100px;
   }
 
   .profile_image {
