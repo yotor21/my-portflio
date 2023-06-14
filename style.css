@@ -90,7 +90,7 @@ body {
   /* About Me */
   
   .about-me {
-    display: center;
+    display: flex;
     align-items: center;
    
   }
