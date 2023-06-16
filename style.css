@@ -101,7 +101,8 @@ body {
     color: #7600bc; 
       display: flex;
       justify-content: center;
-      align items: center;
+      align items : center;
+      
   }
   
   #about-me p {
