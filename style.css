@@ -99,6 +99,7 @@ body {
     font-size: 65px;
     margin-top: 90px;
     color: #7600bc; 
+      display: flex;
       justify-content: center;
       display: center;
   }
