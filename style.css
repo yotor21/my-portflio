@@ -91,7 +91,6 @@ body {
   
   .about-me {
     display: flex;
-    justify-content: center;
     align-items: center;
    
   }
@@ -100,8 +99,8 @@ body {
     font-size: 65px;
     margin-top: 90px;
     color: #7600bc; 
-      display: center;
       justify-content: center;
+      display: center;
   }
   
   #about-me p {
