@@ -101,6 +101,7 @@ body {
     margin-top: 90px;
     color: #7600bc; 
       display: center;
+      justify-content: center;
   }
   
   #about-me p {
