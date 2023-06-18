@@ -1,6 +1,5 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: red;
   }
   
   /* Navigation Bar */
@@ -108,7 +107,7 @@ body {
   
   #about-me p {
     font-size: 25px;
-    color: black;
+    color: rgb(128, 128, 128);
     margin-right: -1cm;
    
   }
