@@ -1,12 +1,11 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #480048;
   }
   
   /* Navigation Bar */
   
   #home {
-    background-color:   #480048;
+    background-color:   #8d00bf;;
     padding-bottom: 1cm;
     margin-left:-1cm;
     margin-right:-1cm;
